@@ -1,4 +1,4 @@
-#!/usr/bin/python -O
+#!/usr/bin/env python3
 # coding:utf-8
 
 # de-macro-python3.py
